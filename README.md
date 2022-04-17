@@ -1,3 +1,7 @@
+# Recommended reading
+- [A curated checklist of tips to protect your digital security and privacy: https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+- [The Hitchhiker’s Guide to Online Anonymity: https://anonymousplanet-ng.org/](https://anonymousplanet-ng.org/)
+
 
 # General Tools 
 | Tool     | Description |
