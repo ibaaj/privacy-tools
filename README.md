@@ -1,6 +1,6 @@
 # Recommended reading
 - [A curated checklist of tips to protect your digital security and privacy: https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-- [The Hitchhiker’s Guide to Online Anonymity: https://anonymousplanet-ng.org/](https://anonymousplanet-ng.org/)
+- [The Hitchhiker’s Guide to Online Anonymity: https://anonymousplanet-ng.org/](https://anonymousplanet-ng.org/) *"You should never share real individual experiences/details using your anonymous identities that could later lead to finding your real identity."*
 
 
 # General Tools 
