@@ -12,17 +12,17 @@
 | OpenStreetMap: [OrganicMap](https://organicmaps.app) | Avoid using google maps |
 | [SearX-NG](https://github.com/searxng/searxng) | allows you to do google searches on a server (which can be yours) without letting google know your ip and your browser |
 | [openPGP](https://www.openpgp.org/) | file encryption tool, [tutorial](https://sites.pitt.edu/~poole/Pgp.htm) |
-| Deepl | better translator than google translate|
+| [Deepl](https://www.deepl.com) | better translator than google translate|
 
 # Firefox extensions 
 
 | Extension    | Description |
 | ----------- | ----------- |
-| uBlock Origin | ad-blockers | 
-| Ghostery | ad-blockers | 
+| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | ad-blockers | 
+| [Ghostery]() | ad-blockers | 
 | Multi-container | containerize website (cookies from a particular website can be used in a single dedicated container)  | 
 | Consent-o-matic | automatically reject all (almost all) requests to accept cookies in pop-ups | 
-| TemporaryContainer | every new tab is a temporary new container | 
+| TemporaryContainer | every new tab is a new temporary container | 
 
 I also use LanguageTool and Grammelecte as grammar and spell checkers.
 
