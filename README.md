@@ -37,7 +37,7 @@ I use cliget to simplify the download process when you have many files to downlo
 
 # /etc/hosts or c:\windows\system32\drivers\etc\hosts
 
-I use Stevenblack/Hosts. I set 100k domain as being 0.0.0.0 i.e., 127.0.0.1, for instance google ad services.
+I use Stevenblack/Hosts. I set 100k domain as being 0.0.0.0 i.e., "127.0.0.1", for instance google ad services.
 
 # on iPhone 
 
