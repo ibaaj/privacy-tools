@@ -12,7 +12,17 @@
 | OpenStreetMap: [OrganicMap](https://organicmaps.app) | Avoid using google maps |
 | [SearX-NG](https://github.com/searxng/searxng) | allows you to do google searches on a server (which can be yours) without letting google know your ip and your browser |
 | [openPGP](https://www.openpgp.org/) | file encryption tool, [tutorial](https://sites.pitt.edu/~poole/Pgp.htm) |
-| [Deepl](https://www.deepl.com) | better translator than google translate|
+
+# Bypass Service
+
+| Tool     | Description |
+| ----------- | ----------- |
+| [SearX-NG](https://github.com/searxng/searxng) | allows you to do google searches (on a server which can be yours) without letting google know your ip and your browser |
+| [Invidious](https://github.com/iv-org/invidious) | allows you to use Youtube (on a server which can be yours) without letting google know your ip and your browser |
+| [Nitter](https://github.com/zedeus/nitter) | allows you to use Twitter (on a server which can be yours) without letting twitter know your ip and your browser |
+| [Bibliogram](https://git.sr.ht/~cadence/bibliogram-docs) | allows you to use Instagram (on a server which can be yours) without letting Facebok know your ip and your browser |
+
+
 
 # Firefox extensions 
 
@@ -23,6 +33,7 @@
 | Multi-container | containerize website (cookies from a particular website can be used in a single dedicated container)  | 
 | Consent-o-matic | automatically reject all (almost all) requests to accept cookies in pop-ups | 
 | TemporaryContainer | every new tab is a new temporary container | 
+| [Libredirect](https://addons.mozilla.org/en-GB/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives | 
 
 I also use LanguageTool and Grammelecte as grammar and spell checkers.
 
