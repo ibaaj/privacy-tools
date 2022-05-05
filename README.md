@@ -28,12 +28,13 @@ some tools I use for privacy.
 | Tool     | Description |
 | ----------- | ----------- |
 | [SearX-NG](https://github.com/searxng/searxng) | Allows you to do google searches (on a server which can be yours) without letting google know your ip and your browser. |
+| [SimplyTranslate](https://sr.ht/~metalune/SimplyTranslate/) | private translations (Google Translate, DeepL, ICIBA and LibreTranslate). | 
 | [Invidious](https://github.com/iv-org/invidious) | Allows you to use Youtube (on a server which can be yours) without letting google know your ip and your browser. |
 | [ViewTube](https://github.com/ViewTube/viewtube-vue) | Similar to invidious i.e. for Youtube, but with a different interface. |
 | [Nitter](https://github.com/zedeus/nitter) | Allows you to use Twitter (on a server which can be yours) without letting twitter know your ip and your browser. |
 | [Bibliogram](https://git.sr.ht/~cadence/bibliogram-docs) | Allows you to use Instagram (on a server which can be yours) without letting Facebok know your ip and your browser. |
 
-Similar services are available for Medium, TikTok, Imgur... See a list of [alternative-front-ends](https://github.com/mendel5/alternative-front-ends).
+Similar services are available for Medium, TikTok, Imgur or even Reuters... See a list of [alternative-front-ends](https://github.com/mendel5/alternative-front-ends).
 
 Use them in conjunction with the LibRedirect Firefox extension (see below).
 
