@@ -32,7 +32,7 @@ Similar services are available for Medium, TikTok, Imgur... See a list of [alter
 
 Use them in conjunction with the LibRedirect Firefox extension (see below).
 
-# Other services
+# Other services (available on mobile and computer)
 
 | Tool     | Description |
 | ----------- | ----------- |
