@@ -2,9 +2,14 @@ some tools I use for privacy.
 
 
 # Recommended reading
+
+### general 
 - [A curated checklist of tips to protect your digital security and privacy: https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): very good advices and tools.
 - [The Hitchhiker’s Guide to Online Anonymity: https://anonymousplanet-ng.org/](https://anonymousplanet-ng.org/) *"You should never share real individual experiences/details using your anonymous identities that could later lead to finding your real identity".*
 - [https://www.privacyguides.org/](https://www.privacyguides.org/): A guide to restoring your online privacy.
+
+### service:
+- [ToSdr](https://tosdr.org/): evaluate well-known websites (e.g. facebook, wikipedia) in terms of privacy
 
 # General Tools 
 | Tool     | Description |
@@ -40,6 +45,7 @@ Use them in conjunction with the LibRedirect Firefox extension (see below).
 | [InoReader](https://inoreader.com) | RSS reader that allows you to avoid using social networks. It can handle a YouTube channel, a Facebook page, etc. Drawbacks: uses ad tracker. |
 | [NewsBlur](https://newsblur.com/) | RSS reader similar to InoReader but [open-source](https://github.com/samuelclay/NewsBlur). it has some ad trackers too. |
 
+The website [https://12ft.io/](https://12ft.io/) helps you to bypass the paywall of news sites.
 
 # Firefox extensions 
 
