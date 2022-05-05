@@ -5,6 +5,7 @@ some tools I use for privacy.
 
 ### general 
 - [A curated checklist of tips to protect your digital security and privacy: https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): very good advices and tools.
+- [https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): List of free and open source privacy services as an alternative to proprietary services.
 - [The Hitchhiker’s Guide to Online Anonymity: https://anonymousplanet-ng.org/](https://anonymousplanet-ng.org/) *"You should never share real individual experiences/details using your anonymous identities that could later lead to finding your real identity".*
 - [https://www.privacyguides.org/](https://www.privacyguides.org/): A guide to restoring your online privacy.
 
