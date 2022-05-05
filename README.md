@@ -72,7 +72,7 @@ I use [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). I set 100k doma
 | Tool | Description | 
 | ----------- | ----------- |
 | [DnsCloak](https://apps.apple.com/fr/app/dnscloak-secure-dns-client/id1452162351) | It lets me use a DNS service and put an host file from [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). | 
-| [StrongBox](https://strongboxsafe.com/) | An open-source password manager that works with KeePass db. |
+| [StrongBox](https://strongboxsafe.com/) | An open-source password manager that works with a KeePass db. |
 
 
 
