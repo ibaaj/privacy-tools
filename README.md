@@ -11,38 +11,47 @@ some tools I use for privacy.
 | ----------- | ----------- |
 | [Firefox](https://www.firefox.com)     |  Open-source browser. The only one based on gecko (instead of Webkit based privacy browsers). [See why this is important here](https://reddit.com/r/privacy/comments/u62468/best_browser_that_isnt_chrome/i560lmr/?context=3).      |
 | [ProtonMail](https://www.protonmail.com)  | Messaging service developed by CERN researchers.       |
-| [InoReader](https://inoreader.com) | RSS reader that allows you to avoid using social networks. It can handle a YouTube channel, a Facebook page, etc. Drawbacks: uses ad tracker. |
-| [NewsBlur](https://newsblur.com/) | RSS reader similar to InoReader but [open-source](https://github.com/samuelclay/NewsBlur). it has some ad trackers too. |
-| OpenStreetMap: [OrganicMap](https://organicmaps.app) | Avoid using google maps. |
-| [openPGP](https://www.openpgp.org/) | file encryption tool, [tutorial](https://pranabdas.github.io/linux/pgp/). |
+| [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669) | A private messaging system, which unfortunately few people use. | 
+| [KeePassX](https://keepass.info/) | An open-source and safe password manager. |
+| [openPGP](https://www.openpgp.org/) | File encryption tool, [tutorial](https://pranabdas.github.io/linux/pgp/). |
+
+
 
 # Tracking Bypass Service
 
 | Tool     | Description |
 | ----------- | ----------- |
-| [SearX-NG](https://github.com/searxng/searxng) | allows you to do google searches (on a server which can be yours) without letting google know your ip and your browser. |
-| [Invidious](https://github.com/iv-org/invidious) | allows you to use Youtube (on a server which can be yours) without letting google know your ip and your browser. |
+| [SearX-NG](https://github.com/searxng/searxng) | Allows you to do google searches (on a server which can be yours) without letting google know your ip and your browser. |
+| [Invidious](https://github.com/iv-org/invidious) | Allows you to use Youtube (on a server which can be yours) without letting google know your ip and your browser. |
 | [ViewTube](https://github.com/ViewTube/viewtube-vue) | Similar to invidious i.e. for Youtube, but with a different interface. |
-| [Nitter](https://github.com/zedeus/nitter) | allows you to use Twitter (on a server which can be yours) without letting twitter know your ip and your browser. |
-| [Bibliogram](https://git.sr.ht/~cadence/bibliogram-docs) | allows you to use Instagram (on a server which can be yours) without letting Facebok know your ip and your browser. |
+| [Nitter](https://github.com/zedeus/nitter) | Allows you to use Twitter (on a server which can be yours) without letting twitter know your ip and your browser. |
+| [Bibliogram](https://git.sr.ht/~cadence/bibliogram-docs) | Allows you to use Instagram (on a server which can be yours) without letting Facebok know your ip and your browser. |
 
 Similar services are available for Medium, TikTok, Imgur... See a list of [alternative-front-ends](https://github.com/mendel5/alternative-front-ends).
 
 Use them in conjunction with the LibRedirect Firefox extension (see below).
+
+# Other services
+
+| Tool     | Description |
+| ----------- | ----------- |
+| OpenStreetMap: [OrganicMap](https://organicmaps.app) | Avoid using google maps. |
+| [InoReader](https://inoreader.com) | RSS reader that allows you to avoid using social networks. It can handle a YouTube channel, a Facebook page, etc. Drawbacks: uses ad tracker. |
+| [NewsBlur](https://newsblur.com/) | RSS reader similar to InoReader but [open-source](https://github.com/samuelclay/NewsBlur). it has some ad trackers too. |
 
 
 # Firefox extensions 
 
 | Extension    | Description |
 | ----------- | ----------- |
-| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | ad-blockers. | 
-| [Ghostery](https://addons.mozilla.org/fr/firefox/addon/ghostery/) | ad-blockers. | 
-| [Multi-container](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) | containerize website (cookies from a particular website can be used in a single dedicated container).  | 
-| [Consent-o-matic](https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic/) | automatically reject all (almost all) requests to accept cookies in pop-ups. | 
-| [TemporaryContainer](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) | every new tab is a new temporary container. | 
+| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Ad-blockers. | 
+| [Ghostery](https://addons.mozilla.org/fr/firefox/addon/ghostery/) | Ad-blockers. | 
+| [Multi-container](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) | Containerize website (cookies from a particular website can be used in a single dedicated container).  | 
+| [Consent-o-matic](https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic/) | Automatically reject all (almost all) requests to accept cookies in pop-ups. | 
+| [TemporaryContainer](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) | Every new tab is a new temporary container. | 
 | [Libredirect](https://addons.mozilla.org/en-GB/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives (tracking bypass service). | 
 
-I also use [LanguageTool](https://addons.mozilla.org/fr/firefox/addon/languagetool/) and [Grammelecte](https://addons.mozilla.org/en-US/firefox/addon/grammalecte-fr/) as grammar and spell checkers.
+I also use [LanguageTool](https://addons.mozilla.org/fr/firefox/addon/languagetool/) and [Grammelecte](https://addons.mozilla.org/en-US/firefox/addon/grammalecte-fr/) (for french) as grammar and spell checkers.
 
 I use [cliget](https://addons.mozilla.org/fr/firefox/addon/cliget/) to simplify the download process when you have many files to download and you are logged on a website and [updatescanner](https://addons.mozilla.org/fr/firefox/addon/update-scanner/) for checking if a web page has been modified.
 
@@ -50,20 +59,24 @@ I use [cliget](https://addons.mozilla.org/fr/firefox/addon/cliget/) to simplify 
 
 | DNS Service | Note |
 | ----------- | ----------- |
-| [NextDNS](https://nextdns.io/) | fast |
+| [NextDNS](https://nextdns.io/) | Fast. |
 | [Quad9](https://www.quad9.net/) | |
 
 # /etc/hosts or c:\windows\system32\drivers\etc\hosts
 
 I use [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). I set 100k domain as being 0.0.0.0 i.e., "127.0.0.1", for instance google ad services.
 
-# on iPhone 
+# security tools dedicated to the iPhone 
 
 | Tool | Description | 
 | ----------- | ----------- |
-| [DnsCloak](https://apps.apple.com/fr/app/dnscloak-secure-dns-client/id1452162351) | it lets me use a DNS service and put an host file from [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). | 
-| [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669) | a private messaging system, which unfortunately few people use. | 
-| [OrganicMap](https://organicmaps.app) | avoid using google maps. |
+| [DnsCloak](https://apps.apple.com/fr/app/dnscloak-secure-dns-client/id1452162351) | It lets me use a DNS service and put an host file from [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). | 
+| [StrongBox](https://strongboxsafe.com/) | An open-source password manager that works with KeePass db. |
+
+
+
+
+
 
 
  
