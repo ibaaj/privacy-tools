@@ -55,6 +55,8 @@ Off topic: I also use [LanguageTool](https://addons.mozilla.org/fr/firefox/addon
 
 # DNS 
 
+Some DNS servers protects you from all kinds of security threats, blocks ads and trackers on websites and in apps.
+
 | DNS Service | Note |
 | ----------- | ----------- |
 | [NextDNS](https://nextdns.io/) | Fast. |
