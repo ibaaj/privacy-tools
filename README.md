@@ -51,9 +51,7 @@ Use them in conjunction with the LibRedirect Firefox extension (see below).
 | [TemporaryContainer](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) | Every new tab is a new temporary container. | 
 | [Libredirect](https://addons.mozilla.org/en-GB/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives (tracking bypass service). | 
 
-I also use [LanguageTool](https://addons.mozilla.org/fr/firefox/addon/languagetool/) and [Grammelecte](https://addons.mozilla.org/en-US/firefox/addon/grammalecte-fr/) (for french) as grammar and spell checkers.
-
-I use [cliget](https://addons.mozilla.org/fr/firefox/addon/cliget/) to simplify the download process when you have many files to download and you are logged on a website and [updatescanner](https://addons.mozilla.org/fr/firefox/addon/update-scanner/) for checking if a web page has been modified.
+Off topic: I also use [LanguageTool](https://addons.mozilla.org/fr/firefox/addon/languagetool/) and [Grammelecte](https://addons.mozilla.org/en-US/firefox/addon/grammalecte-fr/) (for french) as grammar and spell checkers. I use [cliget](https://addons.mozilla.org/fr/firefox/addon/cliget/) to simplify the download process when you have many files to download and you are logged on a website and [updatescanner](https://addons.mozilla.org/fr/firefox/addon/update-scanner/) for checking if a web page has been modified.
 
 # DNS 
 
