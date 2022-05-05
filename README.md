@@ -9,7 +9,7 @@ some tools I use for privacy.
 - [https://www.privacyguides.org/](https://www.privacyguides.org/): A guide to restoring your online privacy.
 
 ### service:
-- [ToSdr](https://tosdr.org/): evaluate well-known websites (e.g. facebook, wikipedia) in terms of privacy
+- [ToSdr](https://tosdr.org/): evaluate well-known websites (e.g. facebook, wikipedia) in terms of privacy.
 
 # General Tools 
 | Tool     | Description |
