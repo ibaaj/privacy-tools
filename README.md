@@ -61,7 +61,7 @@ I use [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). I set 100k doma
 
 | Tool | Description | 
 | ----------- | ----------- |
-| [DnsCloak](https://apps.apple.com/fr/app/dnscloak-secure-dns-client/id1452162351) | it lets me use NextDNS and put an host file from [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). | 
+| [DnsCloak](https://apps.apple.com/fr/app/dnscloak-secure-dns-client/id1452162351) | it lets me use a DNS service and put an host file from [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). | 
 | [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669) | a private messaging system, which unfortunately few people use. | 
 | [OrganicMap](https://organicmaps.app) | avoid using google maps. |
 
