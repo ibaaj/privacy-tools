@@ -14,7 +14,7 @@ some tools I use for privacy.
 | [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669) | A private messaging system, which unfortunately few people use. | 
 | [KeePassX](https://keepass.info/) | An open-source and safe password manager. |
 | [openPGP](https://www.openpgp.org/) | File encryption tool, [tutorial](https://pranabdas.github.io/linux/pgp/). |
-| [openVPN](https://openvpn.net/) | Open-source vpn service. |
+| [openVPN](https://openvpn.net/) | Open-source vpn service (server side and client side). |
 
 
 
