@@ -49,7 +49,9 @@ Use them in conjunction with the LibRedirect Firefox extension (see below).
 
 The website [https://12ft.io/](https://12ft.io/) helps you to bypass the paywall of news sites.
 
-# Firefox extensions 
+# Firefox configuration hardening & extensions 
+
+I harden the browser settings and make it more secure by customizing [user.js](https://github.com/pyllyukko/user.js/).
 
 | Extension    | Description |
 | ----------- | ----------- |
