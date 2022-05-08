@@ -94,7 +94,7 @@ I use a removable and reusable screen protector for each device e.g. [Amazon lin
 
 I do not connect to any personal service on a machine that is not mine. For example, I never connect to my personal mailbox on my computer lent by my employer. You never know what is installed on it and even what happens when you return the computer. 
 
-
+I try to disable the wifi most of the time when it is not in use.
 
 
  
