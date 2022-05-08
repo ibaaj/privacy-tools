@@ -31,6 +31,7 @@ some tools I use for privacy.
 | [SimplyTranslate](https://sr.ht/~metalune/SimplyTranslate/) | private translations (Google Translate, DeepL, ICIBA and LibreTranslate). | 
 | [Invidious](https://github.com/iv-org/invidious) | Allows you to use Youtube (on a server which can be yours) without letting google know your ip and your browser. |
 | [ViewTube](https://github.com/ViewTube/viewtube-vue) | Similar to invidious i.e. for Youtube, but with a different interface. |
+| [Teddit](https://codeberg.org/teddit/teddit) | Alternative Reddit front-end focused on privacy. |
 | [Nitter](https://github.com/zedeus/nitter) | Allows you to use Twitter (on a server which can be yours) without letting twitter know your ip and your browser. |
 | [Bibliogram](https://git.sr.ht/~cadence/bibliogram-docs) | Allows you to use Instagram (on a server which can be yours) without letting Facebok know your ip and your browser. |
 
