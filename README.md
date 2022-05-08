@@ -9,6 +9,7 @@ some tools I use for privacy.
 - [The Hitchhiker’s Guide to Online Anonymity: https://anonymousplanet-ng.org/](https://anonymousplanet-ng.org/) *"You should never share real individual experiences/details using your anonymous identities that could later lead to finding your real identity".*
 - [https://www.privacyguides.org/](https://www.privacyguides.org/): A guide to restoring your online privacy.
 - [ToSdr](https://tosdr.org/): evaluate well-known websites (e.g. facebook, wikipedia) in terms of privacy.
+- [r/privacy](https://www.reddit.com/r/privacy): active community on privacy.
 
 # General Tools 
 | Tool     | Description |
@@ -73,13 +74,16 @@ Some DNS servers protects you from security threats, blocks ads and trackers on 
 
 I use [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). I set 100k domain as being 0.0.0.0 i.e., "127.0.0.1", for instance google ad services.
 
-# security tools dedicated to the iPhone 
+# Security tools dedicated to the iPhone 
 
 | Tool | Description | 
 | ----------- | ----------- |
 | [DnsCloak](https://apps.apple.com/fr/app/dnscloak-secure-dns-client/id1452162351) | It lets me use a DNS service and put an host file from [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). | 
 | [StrongBox](https://strongboxsafe.com/) | An open-source password manager that works with a KeePass db. |
 
+# Screen protector 
+
+I use a removable and reusable screen protector for each device e.g. [https://www.amazon.fr/ScreenForce-Removable-Privacy-Protection-MacBook/dp/B089BV9PSD/ref=sr_1_16?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=filtre%2B%C3%A9cran%2Bmacbook%2Bpro%2B13&sr=8-16&th=1](Amazon link).
 
 
 
