@@ -87,7 +87,9 @@ I use [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). I set 100k doma
 
 I use a removable and reusable screen protector for each device e.g. [Amazon link](https://www.amazon.fr/ScreenForce-Removable-Privacy-Protection-MacBook/dp/B089BV9PSD/ref=sr_1_16?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=filtre%2B%C3%A9cran%2Bmacbook%2Bpro%2B13&sr=8-16&th=1).
 
+# hygiene
 
+I do not connect to any personal service on a machine that is not mine. For example, I never connect to my personal mailbox on my computer lent by my employer. You never know what is installed on it and even what happens when you return the computer. 
 
 
 
