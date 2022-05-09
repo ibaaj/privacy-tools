@@ -62,6 +62,9 @@ I harden the browser settings and make it more secure by customizing user.js wit
 | [Consent-o-matic](https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic/) | Automatically reject all (almost all) requests to accept cookies in pop-ups. | 
 | [TemporaryContainer](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) | Every new tab is a new temporary container. | 
 | [Libredirect](https://addons.mozilla.org/en-GB/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives (tracking bypass service). | 
+| [CanvasBlocker](https://addons.mozilla.org/fr/firefox/addon/canvasblocker/) | Alters some JS APIs to prevent fingerprinting. | 
+| [SmartReferer](https://addons.mozilla.org/fr/firefox/addon/smart-referer/) | Automatically hide HTTP and JavaScript Referer for cross-domain requests. |
+| [SkipRedirect](https://addons.mozilla.org/fr/firefox/addon/skip-redirect/) | Some web pages use intermediary pages before redirecting to a final page. This webextension tries to extract the final url from the intermediary url and goes there straight away if successful.  | 
 
 [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) is a good tool if you want a granular control of what scripts on sites are run. Do not use Ghostery, which is developed by an advertising company and show their own ads.
 
