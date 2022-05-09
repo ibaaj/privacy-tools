@@ -51,7 +51,7 @@ The website [https://12ft.io/](https://12ft.io/) helps you to bypass the paywall
 
 # Firefox configuration hardening & extensions 
 
-I harden the browser settings and make it more secure by customizing user.js with [https://github.com/pyllyukko/user.js/](https://github.com/pyllyukko/user.js/).
+I harden the browser settings and make it more secure by customizing user.js with [https://github.com/arkenfox/user.js/](https://github.com/arkenfox/user.js/).
 
 | Extension    | Description |
 | ----------- | ----------- |
