@@ -21,7 +21,7 @@ some tools I use for privacy.
 | [openPGP](https://www.openpgp.org/) | File encryption tool, [tutorial](https://pranabdas.github.io/linux/pgp/). |
 | [openVPN](https://openvpn.net/) | Open-source vpn service (server side and client side). |
 
-
+If possible, use a free and open source operating system such as Linux because recent versions of OSX and Windows have the ability to show personalized ads in certain programs, [see here for OSX](https://support.apple.com/en-sg/guide/mac-help/mh32356/mac).
 
 # Tracking Bypass Service
 
