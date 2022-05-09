@@ -17,7 +17,7 @@ some tools I use for privacy.
 | [Firefox](https://www.firefox.com)     |  Open-source browser. The only one based on gecko (instead of Webkit based privacy browsers). [See why this is important here](https://reddit.com/r/privacy/comments/u62468/best_browser_that_isnt_chrome/i560lmr/?context=3).      |
 | [ProtonMail](https://www.protonmail.com)  | Messaging service developed by CERN researchers.       |
 | [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669) | A private messaging system, which unfortunately few people use. | 
-| [KeePassX](https://keepass.info/) | An open-source and safe password manager. |
+| [KeePass](https://keepass.info/) | An open-source and safe password manager with many unofficial ports to different platforms. |
 | [openPGP](https://www.openpgp.org/) | File encryption tool, [tutorial](https://pranabdas.github.io/linux/pgp/). |
 | [openVPN](https://openvpn.net/) | Open-source vpn service (server side and client side). |
 
@@ -95,7 +95,7 @@ I do not connect to any personal service on a machine that is not mine. For exam
 
 I try to disable the wifi most of the time when it is not in use.
 
-
+I never charge my phone on public usb plugs. If you want to do it, use [syncstop](http://syncstop.com/).
  
 
 
