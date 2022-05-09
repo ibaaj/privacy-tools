@@ -76,7 +76,7 @@ Some DNS servers protects you from security threats, blocks ads and trackers on 
 
 # /etc/hosts or c:\windows\system32\drivers\etc\hosts
 
-I use [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). I set 100k domain as being 0.0.0.0 i.e., "127.0.0.1", for instance google ad services.
+I use [Stevenblack/Hosts](https://github.com/StevenBlack/hosts). I set 100k domains as being 0.0.0.0 i.e., "127.0.0.1", for instance google ad services.
 
 # Security tools dedicated to the iPhone 
 
