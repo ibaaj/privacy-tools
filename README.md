@@ -55,14 +55,13 @@ I harden the browser settings and make it more secure by customizing user.js wit
 
 | Extension    | Description |
 | ----------- | ----------- |
-| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Ad-blockers. | 
-| [Ghostery](https://addons.mozilla.org/fr/firefox/addon/ghostery/) | Ad-blockers. | 
+| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Ad-blockers. |  
 | [Multi-container](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) | Containerize website (cookies from a particular website can be used in a single dedicated container).  | 
 | [Consent-o-matic](https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic/) | Automatically reject all (almost all) requests to accept cookies in pop-ups. | 
 | [TemporaryContainer](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) | Every new tab is a new temporary container. | 
 | [Libredirect](https://addons.mozilla.org/en-GB/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives (tracking bypass service). | 
 
-[NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) is a good tool if you want a granular control of what scripts on sites are run.
+[NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) is a good tool if you want a granular control of what scripts on sites are run. Do not use Ghostery, which is developed by an advertising company.
 
 Off topic: I also use [LanguageTool](https://addons.mozilla.org/fr/firefox/addon/languagetool/) and [Grammelecte](https://addons.mozilla.org/en-US/firefox/addon/grammalecte-fr/) (for french) as grammar and spell checkers. I use [cliget](https://addons.mozilla.org/fr/firefox/addon/cliget/) to simplify the download process when you have many files to download and you are logged on a website and [updatescanner](https://addons.mozilla.org/fr/firefox/addon/update-scanner/) for checking if a web page has been modified.
 
