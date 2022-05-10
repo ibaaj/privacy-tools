@@ -1,6 +1,5 @@
 Some tools I use for privacy. 
 
-This page was reviewed by r/privacy members [here](https://www.reddit.com/r/privacy/comments/ul5d59/some_tools_i_use_for_privacy_advicesuggestions/), thanks a lot for their advice and suggestions.
 
 
 # Recommended reading
