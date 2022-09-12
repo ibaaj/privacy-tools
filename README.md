@@ -24,6 +24,9 @@ Some tools I use for privacy.
 
 If possible, use a free and open source operating system such as Linux because recent versions of OSX and Windows have the ability to show personalized ads in certain programs, [see here for OSX](https://support.apple.com/en-sg/guide/mac-help/mh32356/mac).
 
+For mobile, [GrapheneOS](https://grapheneos.org/) is a privacy and security focused mobile OS with Android app compatibility, that will never include either Google Play services or another implementation of Google services like microG.
+
+
 # Tracking Bypass Service
 
 | Tool     | Description |
