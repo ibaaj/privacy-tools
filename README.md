@@ -50,6 +50,7 @@ Use them in conjunction with the LibRedirect Firefox extension (see below).
 | OpenStreetMap: [OrganicMap](https://organicmaps.app) | Avoid using google maps. |
 | [InoReader](https://inoreader.com) | RSS reader that allows you to avoid using social networks. It can handle a YouTube channel, a Facebook page, etc. Drawbacks: uses ad tracker. |
 | [NewsBlur](https://newsblur.com/) | RSS reader similar to InoReader but [open-source](https://github.com/samuelclay/NewsBlur). it has some ad trackers too. |
+| [NetNewsWire](https://netnewswire.com/) | NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad.
 
 The website [https://12ft.io/](https://12ft.io/) helps you to bypass the paywall of news sites.
 
